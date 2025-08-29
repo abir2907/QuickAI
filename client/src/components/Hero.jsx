@@ -30,8 +30,8 @@ const Hero = () => {
         </button>
       </div>
       <div className="flex items-center gap-4 mt-8 mx-auto text-gray-600">
-        <img src={assets.user_group} alt="" className="h-8" /> Trusted by 10k+
-        people
+        <img src={assets.user_group} alt="users" className="h-8" /> Trusted by
+        10k+ people
       </div>
     </div>
   );
