@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="md:max-w-96">
           <img className="h-9" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-            Experience the power of AI with QuickAi. <br />
+            Experience the power of AI with QuickAI. <br />
             Transform your content creation with our suite of premium AI tools.
             Write articles, generate images, and enhance your workflow.
           </p>
@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="pt-4 text-center text-xs md:text-sm pb-5">
-        Copyright 2025 © GreatStack. All Right Reserved.
+        Copyright 2025 © Abir. All Right Reserved.
       </p>
     </footer>
   );
