@@ -393,7 +393,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 - GitHub: [@abir2907](https://github.com/abir2907)
 - LinkedIn: [Abir Chodha](https://www.linkedin.com/in/abir-chodha-46a983298/)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Portfolio: [Portfolio Link](https://portfolio-seven-ochre-t5j6q9bycw.vercel.app/)
 
 ---
 
